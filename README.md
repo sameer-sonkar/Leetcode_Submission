@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Array
+|  |
+| ------- |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3685-subsequence-sum-after-capping-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3685-subsequence-sum-after-capping-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3685-subsequence-sum-after-capping-elements) |
+## Sorting
+|  |
+| ------- |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3685-subsequence-sum-after-capping-elements) |
 <!---LeetCode Topics End-->
