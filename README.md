@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3680-generate-schedule](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3680-generate-schedule) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3680-generate-schedule](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3680-generate-schedule) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [4023-elevator-requests-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4023-elevator-requests-ii) |
 ## Two Pointers
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Math
+|  |
+| ------- |
+| [3680-generate-schedule](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3680-generate-schedule) |
 <!---LeetCode Topics End-->
