@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [4023-elevator-requests-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4023-elevator-requests-ii) |
 ## Two Pointers
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [4023-elevator-requests-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4023-elevator-requests-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
