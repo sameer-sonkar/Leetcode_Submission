@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3815-design-auction-system](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3815-design-auction-system) |
 ## Greedy
 |  |
 | ------- |
@@ -87,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3676-count-bowl-subarrays](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3676-count-bowl-subarrays) |
+## Design
+|  |
+| ------- |
+| [3815-design-auction-system](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3815-design-auction-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3815-design-auction-system](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3815-design-auction-system) |
+## Ordered Set
+|  |
+| ------- |
+| [3815-design-auction-system](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3815-design-auction-system) |
 <!---LeetCode Topics End-->
