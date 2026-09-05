@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Hash Table
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3679-minimum-discards-to-balance-inventory) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0456-132-pattern](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0456-132-pattern) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
