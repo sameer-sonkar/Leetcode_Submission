@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3676-count-bowl-subarrays](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3676-count-bowl-subarrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Union-Find
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3815-design-auction-system](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3815-design-auction-system) |
 ## Ordered Set
