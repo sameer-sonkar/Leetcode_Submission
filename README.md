@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3680-generate-schedule](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3680-generate-schedule) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3815-design-auction-system](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3815-design-auction-system) |
