@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0940-distinct-subsequences-ii) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [4023-elevator-requests-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4023-elevator-requests-ii) |
 ## Sorting
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1405-longest-happy-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1405-longest-happy-string) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
