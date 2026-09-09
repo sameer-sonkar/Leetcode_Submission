@@ -1,7 +1,7 @@
 class Solution:
    
     def sumSubarrayMins(self, arr: List[int]) -> int:
-        MOD=1e9+7
+        MOD=10**9+7
         ans=0
         n=len(arr)
         pse=[0]*n
@@ -20,8 +20,8 @@ class Solution:
             left=i-pse[i]
             right=nse[i]-i
             x=left*right*arr[i]
-            ans=(ans%MOD+x%MOD)%MOD
-        return int(ans)
+            ans+=x
+        return int(ans)%MOD
 
 
         
