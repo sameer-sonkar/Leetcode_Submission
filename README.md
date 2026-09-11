@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3676-count-bowl-subarrays](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3676-count-bowl-subarrays) |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0184-department-highest-salary) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
