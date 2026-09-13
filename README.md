@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0456-132-pattern) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0835-image-overlap](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0907-sum-of-subarray-minimums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0907-sum-of-subarray-minimums) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0407-trapping-rain-water-ii) |
+| [0835-image-overlap](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
