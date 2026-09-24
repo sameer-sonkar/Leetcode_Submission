@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3676-count-bowl-subarrays](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3676-count-bowl-subarrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3680-generate-schedule](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3680-generate-schedule) |
 | [3870-count-commas-in-range](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3871-count-commas-in-range-ii) |
