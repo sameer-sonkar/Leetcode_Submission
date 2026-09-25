@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [1405-longest-happy-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1405-longest-happy-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2542-maximum-subsequence-score](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0456-132-pattern) |
 | [0901-online-stock-span](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3676-count-bowl-subarrays](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0407-trapping-rain-water-ii) |
+| [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -248,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
