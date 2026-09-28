@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1405-longest-happy-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1405-longest-happy-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3676-count-bowl-subarrays](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
@@ -266,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
