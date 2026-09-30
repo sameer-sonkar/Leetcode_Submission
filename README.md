@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1405-longest-happy-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
