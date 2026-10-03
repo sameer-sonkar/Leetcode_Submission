@@ -7,15 +7,18 @@ public:
         for (long long i = 0; i < n; i++) {
             pre[i + 1] = nums[i] + pre[i];
         }
-        for (int i = 0; i <= n; i++) {
+        for (int i = 0; i <n; i++) {
             unordered_set<long long> s;
             s.insert(0);
-            for (int j = i + 1; j <= n; j++) {
-                s.insert(((2 * nums[j-1]) % k+k)%k);
-                long long sum = ((pre[j] - pre[i])%k+k)%k;
+            int cnt=0;
+            for (int j = i; j < n; j++) {
+                s.insert(((2 * nums[j]) % k+k)%k);
+                cnt+=nums[j];
+
+                long long sum = ((cnt)%k+k)%k;
                 // cout<<(sum%k)<<endl;
-                if (sum % k == 0 || s.find(sum % k)!=s.end()) {
-                    ans = max(ans, j - i);
+                if (s.find(sum % k)!=s.end()) {
+                    ans = max(ans, j - i+1);
                 }
             }
         }
