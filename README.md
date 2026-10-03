@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3679-minimum-discards-to-balance-inventory](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3815-design-auction-system](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3815-design-auction-system) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Greedy
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3904-smallest-stable-index-ii) |
 | [4023-elevator-requests-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4023-elevator-requests-ii) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Two Pointers
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3903-smallest-stable-index-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3904-smallest-stable-index-ii) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Math
 |  |
 | ------- |
