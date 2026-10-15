@@ -1,14 +1,13 @@
 class Solution {
 public:
     bool canTransform(vector<int>& source, vector<int>& target) {
-        long long a = 0, b = 0;
-        for (auto& x : source) {
-            a += x;
-        }
-
-        for (auto& x : target) {
-            b += x;
-        }
-        return a == b;
+       long long ans=0;
+       int n=source.size();
+       for(int i=0;i<n;i++){
+        ans+=source[i]-target[i];
+       }
+        return (!ans);
+       
     }
+   
 };
