@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3904-smallest-stable-index-ii) |
 | [4023-elevator-requests-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4023-elevator-requests-ii) |
+| [4062-transform-array-using-pair-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Two Pointers
@@ -352,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
