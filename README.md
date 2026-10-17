@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -352,10 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Brainteaser
 |  |
 | ------- |
