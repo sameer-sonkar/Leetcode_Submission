@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0907-sum-of-subarray-minimums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0907-sum-of-subarray-minimums) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0940-distinct-subsequences-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Stack
 |  |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
@@ -327,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Backtracking
 |  |
@@ -364,4 +371,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4062-transform-array-using-pair-operations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
