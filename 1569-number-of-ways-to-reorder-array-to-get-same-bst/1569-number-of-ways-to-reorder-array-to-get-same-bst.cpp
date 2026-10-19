@@ -1,32 +1,40 @@
 class Solution {
+    vector<vector<int>> pt;
+    long long MOD = 1e9 + 7;
+
 private:
-    long long power(long long b, long long e, long long m) {
-        long long r = 1;
-        for (b %= m; e; e >>= 1, b = b * b % m)
-            if (e & 1)
-                r = r * b % m;
-        return r;
+    long long fun(vector<int>& nums) {
+        int n = nums.size();
+        if (n < 3)
+            return 1;
+        int root = nums[0];
+        vector<int> left;
+        vector<int> right;
+        for (long long i = 1; i < n; i++) {
+            if (nums[i] < root)
+                left.push_back(nums[i]);
+            else {
+                right.push_back(nums[i]);
+            }
+        }
+        long long x = fun(left);
+        long long y = fun(right);
+        long long z = pt[n - 1][left.size()];
+        long long ans = (((x * y) % MOD) * z) % MOD;
+        return ans;
     }
 
 public:
     int numOfWays(vector<int>& nums) {
-         long long MOD = 1e9 + 7;
         int n = nums.size();
-        vector<int> born(n + 2, -1);
-        for (int i = 0; i < n; ++i)
-            born[nums[i]] = i;
-
-        long long fact = 1, sizes = 1;
-        for (int k = 2; k <= n; ++k)
-            fact = fact * k % MOD;
-        vector<int> stack = {0};
-        for (int v = 1; v <= n + 1; ++v) {
-            while (born[stack.back()] > born[v]) {
-                stack.pop_back();
-                sizes = sizes * (v - stack.back() - 1) % MOD;
+        pt.resize(n + 1);
+        for (int i = 0; i <= n; i++) {
+            pt[i] = vector<int>(i + 1, 1);
+            for (int j = 1; j < i; j++) {
+                pt[i][j] = (pt[i - 1][j] + pt[i - 1][j - 1]) % MOD;
             }
-            stack.push_back(v);
         }
-        return (fact * power(sizes, MOD - 2, MOD) - 1 + MOD) % MOD;
+        int ans = fun(nums);
+        return (ans - 1) % MOD;
     }
 };
