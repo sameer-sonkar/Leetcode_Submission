@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4023-elevator-requests-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4023-elevator-requests-ii) |
 | [4062-transform-array-using-pair-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
