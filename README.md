@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0407-trapping-rain-water-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0835-image-overlap](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0835-image-overlap) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
