@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3679-minimum-discards-to-balance-inventory](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3815-design-auction-system](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3815-design-auction-system) |
+| [3934-smallest-unique-subarray](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3934-smallest-unique-subarray) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Greedy
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4023-elevator-requests-ii](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4023-elevator-requests-ii) |
 | [4062-transform-array-using-pair-operations](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/4062-transform-array-using-pair-operations) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3934-smallest-unique-subarray) |
 ## Data Stream
 |  |
 | ------- |
@@ -462,4 +465,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sameer-sonkar/Leetcode_Submission/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
